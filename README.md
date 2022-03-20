@@ -22,5 +22,5 @@ Once the clone is done, run below
 $ mvn clean install
 $ mvn compile
 
-After that the result appear on consol
+After that the result appear on console
 
